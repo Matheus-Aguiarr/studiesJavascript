@@ -1,0 +1,35 @@
+MAP, REDUCE E FILTER
+
+
+Servem para a manipulação de arrays
+
+
+
+MAP - Mapear item por item do array     
+    - Criar um novo array com a mesma quantidade de itens do array ORIGINAL
+    - O novo array você pode alterar o que quiser em relação ao array ORIGINAL
+    - você tem acesso a três dados: 
+        - Item por item do array
+        - Posição atual do array
+        - Array completo
+
+
+REDUCE 
+
+pega o array inteiro e reduz para apenas um valor.
+    - Reduz um array inteiro em um único valor 
+        - vc tem acesso a 4 dados:
+            - Acumulador
+            - Valor atual
+            - Posição atual
+            - Array completo
+
+FILTER 
+
+Filtrar o array da maneira como preferir.
+
+    - Cria um novo array filtrando os valores desejados do array ORIGINAL
+    - Você tem acesso a 3 dados: 
+        - Item por item do array
+        - Posição atual do array
+        - Array completo
